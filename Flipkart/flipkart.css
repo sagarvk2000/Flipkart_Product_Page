@@ -1,0 +1,52 @@
+﻿
+#mainNav {
+    margin-left: 20px;
+    color: black;
+
+}
+.container-fluid {
+    background-color: dodgerblue;
+}
+
+.navbar-brand {
+    color: aliceblue;
+}
+
+#menu.container-fluid {
+    background-color: white;
+    height:30px;
+}
+.fa-tag{
+    color:#44940c;
+}
+.d {
+    height: 22px;
+    width: 50px;
+    background-color: #3b7f1e;
+    border: none;
+    color: aliceblue;
+}
+#s1 {
+    padding: 2px 6px;
+    border: 2px solid #e0e0e0;
+    border-radius: 2px;
+    min-width: 20px;
+    position: relative;
+}
+#s2 {
+    padding: 2px 6px;
+    border: 2px solid #e0e0e0;
+    border-radius: 2px;
+    min-width: 20px;
+    position: relative;
+}
+#s3 {
+    padding: 2px 6px;
+    border: 2px solid #e0e0e0;
+    border-radius: 2px;
+    min-width: 20px;
+    position: relative;
+}
+#t1{
+    color:blue;
+}
